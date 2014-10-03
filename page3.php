@@ -17,7 +17,7 @@ include 'php-templates/header2.php';
 
 <div class="recipe-text">
 
-<?php echo $container1; ?>
+<?php echo $content1; ?>
 
 </div>
 <div class="clear-float"></div>
