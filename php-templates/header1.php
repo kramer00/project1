@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>My HTML & CSS Progress</title>
+		<title>My HTML & CSS Progress talk to me goose</title>
 
 		<link rel="stylesheet" type="text/css" href="css/main.css" />
 
